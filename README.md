@@ -7,4 +7,4 @@ This application allows you to connect to a SQL database and generate SQL querie
 ![alt image](https://github.com/boprosv/SQL-Agent/blob/main/Screenshot%202025-03-20%20133025.png?raw=true)
 
 
-![alt image]()
+![alt image](https://github.com/boprosv/SQL-Agent/blob/main/Screenshot%202025-03-20%20133042.png?raw=true)
