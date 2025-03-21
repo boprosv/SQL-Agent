@@ -1,5 +1,5 @@
 # SQL-Agent
-Query databases with ease
+Query databases using AI with ease!
 
 
 This application allows you to connect to a SQL database and generate SQL queries from natural language. The application generates the SQL query. The application will display the results of the query in a table format.
@@ -15,4 +15,6 @@ This application allows you to connect to a SQL database and generate SQL querie
 
 You can inspect and download your data:
 
-![alt image]()
+![alt image](https://github.com/boprosv/SQL-Agent/blob/main/Screenshot%202025-03-20%20133136.png?raw=true)
+
+A seamless way to extract, inspect, and pass the right data from the database to the next step in your workflow.
