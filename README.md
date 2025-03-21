@@ -11,4 +11,8 @@ This application allows you to connect to a SQL database and generate SQL querie
 
 ![alt image](https://github.com/boprosv/SQL-Agent/blob/main/Screenshot%202025-03-20%20133056.png?raw=true)
 
+![alt image](https://github.com/boprosv/SQL-Agent/blob/main/Screenshot%202025-03-20%20133113.png?raw=true)
+
+You can inspect and download your data:
+
 ![alt image]()
